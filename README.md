@@ -21,13 +21,13 @@ This application calculates admission eligibility for Israeli universities based
 
 ## Files
 
-- `form.html` - Main HTML structure and form layout
+- `index.html` - Main HTML structure and form layout
 - `scripts.js` - JavaScript functionality for form validation and interaction
 - `form.css` - Styling for the application
 
 ## How to Use
 
-1. Open `form.html` in a web browser
+1. Open `index.html` in a web browser
 2. Enter your age
 3. Select one of the two options:
    - **Bagrut and Psychometric**: Enter both Bagrut and Psychometric grades
